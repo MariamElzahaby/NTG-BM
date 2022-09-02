@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DIGITM</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="secure_login">Secure Login</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign up Now!</string>
+    <string name="or">OR</string>
+    <string name="sign_in">Sign in with Social Networks</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+</resources>
